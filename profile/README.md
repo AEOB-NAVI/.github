@@ -121,10 +121,13 @@
 
 # 프로젝트 설계 및 구성
 
+## 서비스 아키텍처
+
+![architecture](architecture.png)
 
 ## 데이터베이스 ERD
 
-<img src="navi_erd.png" width=";" alt="ERD"/>
+![erd](navi_erd.png)
 
 <br>
 
